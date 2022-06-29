@@ -1,0 +1,8 @@
+# To create project
+nest new project_name
+
+#To create a new module
+nest g module module_name
+
+#To Create a new service
+nest g service service_name --no-spec
